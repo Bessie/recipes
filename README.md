@@ -6,6 +6,16 @@ This is a collection of vegan and gluten free baking recipes. They're all things
 
 The recipes are in markdown and follow the format described by Conrad Stoll and John Rodgers in [this gihhub repo](https://github.com/cnstoll/Grocery-Recipe-Format) 
 
+### Metadata
+Each Recipe opens with a metadata table like so: 
+
+Metadata| -
+---|---
+Source | [URL]()
+Quantity | 6 small buicusts
+Time to make | 1 & 1/2 hours
+
+
 ### Characters
 The following Markdown characters are used for the content of a recipe:
 
