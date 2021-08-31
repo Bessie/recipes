@@ -4,7 +4,7 @@ This is a collection of vegan and gluten free baking recipes. They're all things
 
 ## Recipie descriptions and language
 
-The recipes are in markdown and follow a format adapted from the format described by Conrad Stoll and John Rodgers in [this gihhub repo](https://github.com/cnstoll/Grocery-Recipe-Format) 
+The recipes are in markdown and follow a format adapted from the format described by Conrad Stoll in [this gihhub repo](https://github.com/cnstoll/Grocery-Recipe-Format) 
 
 ### Metadata
 Each Recipe opens with a metadata table like so: 
