@@ -19,7 +19,7 @@ Cream oil & sugar together until light and fluffy. I usually do this by hand wit
 > It's also fine to sub in a different sugar (where I usually just use the same quantity), and if it doesn't have large crystals then I don't gind it.
 
 ## Dry Mixture
-- Buckwheat Flour | 1/4 cup | 
+- Buckwheat Flour | 2/4 cup | 
 - Cornflour | 1/4 cup |
 - Guar gum | 1/4 tsp |
 - Dutch Cocoa | 3 Tbsp |
