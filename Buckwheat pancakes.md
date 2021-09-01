@@ -65,7 +65,7 @@ Flip the pancakes over to cook on the other side
 Put cooked pancakes into a warm oven (~ 90*C) to keep them warm while you cook the rest of the batch. 
 
 
-## topping
+## Topping
 > Even stuffed, the pancakes will want some more moisture to be perfectly delicious -- chopped fruit and maple syrup are just the thing!
 
 - kiwifruit/ oranges / apples | to taste | thinly sliced
