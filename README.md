@@ -30,7 +30,7 @@ Step
 ### Writing a recipe
 
 Recipes are a combination of ingredients and the method for combining those ingredients. The typical recepie book style usually separtates those into two sections. 
-The approach Conrad Stoll and John Rodgers take deviates from this style. Instead, ingredients are listed just above the steps they're used in, with groups of steps and ingrdients divided into sections. In this way, ingredients and method are combined in the way that you would think about and prepare a recipe rather than split into ingerdients and method. 
+The approach Stoll takes deviates from this style. Instead, ingredients are listed just above the steps they're used in, with groups of steps and ingrdients divided into sections. In this way, ingredients and method are combined in the way that you would think about and prepare a recipe rather than split into ingerdients and method. 
 
 Notes then augment the recepie just like handwritten notes in the margins of a cookbook. They are notes to self that help you remember little things that make your life easier when baking like:
 
