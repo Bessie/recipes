@@ -50,7 +50,7 @@ Then mix the sweet potato, nut butter & fegg mixture together into a smooth past
 
 - Buckwheat flour | 2/4 cup |
 - Corn flour | 1/4 cup |
-- Dutch cocoa powder \ 1/4 cup |
+- Dutch cocoa powder | 1/4 cup |
 - Guar gum | 1/4 tsp|
 - Salt | 1/8 tsp |
 - Baking powder | 1 tsp |
