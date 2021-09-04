@@ -27,6 +27,7 @@ Cream oil & sugar together until light and fluffy. I usually do this by hand wit
 Sift the dry ingredients & mix them togehter
 
 ## Batter
+- Soy milk |3/4 cup | Cold
 - Cornflakes | 1 cup | lightly crushed
 
 Mix the dry ingredients into the creamed oil & sugar to form a stiff batter \
@@ -36,7 +37,7 @@ Stir in the cornfalkes
 
 Line baking tray with baking paper \
 Form the batter into balls & press out onto the baking tray \
-Bake for 15 - 20 minutes at 180*C
+Bake for 20 - 25 minutes at 180*C
 
 > I've found these don't spread \
 > As they tend to stay as they are left they can stand to be pressed a bit flatter
