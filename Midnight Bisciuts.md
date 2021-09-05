@@ -42,7 +42,7 @@ Sift & mix dry ingredients together
 - Mixed nuts | 1/3 cup | sorted & chopped to taste
 
 Make a well in the dry ingredients & pour in the wet, then mix it all up into a sticky batter. \
-M ix in the chocolate chips & nuts.
+Mix in the chocolate chips & nuts.
 
 ## Baking
 
