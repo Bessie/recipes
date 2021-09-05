@@ -24,7 +24,7 @@ Put the vinegar into the soy milk to curdle
 - Coconut oil | 2 Tbsp |
 
 Cream the oil & sugar together. \
-Mix in the we ingredients.
+Mix in the wet ingredients.
 
 ## Dry ingredients
 - Buckwheat flour | 1 cup |
