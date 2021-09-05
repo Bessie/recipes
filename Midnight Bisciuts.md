@@ -9,7 +9,7 @@ Time to make | ~ an hour
 > Ulike my other biscuits which are aiming for crunchy, this one has a soft and crumbly texture. \
 > Named from the times during the pandemic when I would make these as a late-night treat.
 
-
+> Preheat the oven to 180*C
 
 ## Wet ingredients
 - Flax emulsion | 1 Fegg | 1 Tbps flax to 3 Tbsp hot water
@@ -23,14 +23,28 @@ Put the vinegar into the soy milk to curdle
 - Sugar | 1/4 cup |
 - Coconut oil | 2 Tbsp |
 
+Cream the oil & sugar together. \
+Mix in the we ingredients.
 
 ## Dry ingredients
-- Ingredient | Quantity | prep note
+- Buckwheat flour | 1 cup |
+- Almond meal | 1/3 cup |
+- Cornflour | 3 Tbsp |
+- Baking soda | 1 tsp |
+- Salt | 1/4 tsp |
+- Dutch Cocoa | 4 Tbsp |
 
-## Mix-ins
+Sift & mix dry ingredients together
+
+
+## Batter
 - dark chocolate slab ([Ocho 88%](https://ocho.co.nz/collections/95g-bars/products/88-cacao-png)) | 1/2 cup | prep 
 - Mixed nuts | 1/3 cup | sorted & chopped to taste
 
-Step instructions
+Make a well in the dry ingredients & pour in the wet, then mix it all up into a sticky batter. \
+M ix in the chocolate chips & nuts.
 
-> Note to self
+## Baking
+
+Use spoons to drop batter onto a lined baking tray. Use wet fingers to shape biscuits. \
+Bake @ 180*C for 20 mins
