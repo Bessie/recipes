@@ -52,6 +52,9 @@ Scoop the batter into a greased cake tin. \
 
 ## Ice & Decorate
 
+- Hazelnuts/Walnuts | 1/2 cup | chopped
+
+Ice with [Avaocado Ganache](https://github.com/Bessie/recipes/blob/main/Avacado%20Ganache.md) and top with chopped nuts
 
 
 # Results![Finised Cake, iced and topped](https://user-images.githubusercontent.com/62910255/132925304-ee170ae7-8d47-448d-85a6-6ae2198803f2.jpg)
