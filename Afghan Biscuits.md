@@ -45,12 +45,9 @@ Bake for 20 - 25 minutes at 180*C
 After baking, leave the biscuits on a wire rack to cool
 
 ## Topping
-- Avacado | 1 avacado |
-- Dutch cocoa | 2 Tbsp |
-- Powdered Sugar | 1/2 Tbsp|
+- [Avacado Ganache](https://github.com/Bessie/recipes/blob/main/Avacado%20Ganache.md)
 - Walnuts | 4 - 6 halves |
 
-Blend the avacado and dutch cocoa together into a smooth ganache add powdered sugar to taste. Add a little soy milk if it's too stiff.
 Spread the ganache over the top of each biscuit and finish each with one walnt half
 
 # Results
